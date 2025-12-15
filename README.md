@@ -1,14 +1,30 @@
 # AccelAid
 
-## What it does:
-It aids teachers during the process of accelerating learning by using AI to generate personalized study plans, study materials, and assessments for each student.
+## Overview
+AccelAid is a mobile application developed during a hackathon focused on post-crisis education reconstruction. The project aims to support teachers working with students who have experienced disruptions in their education by assisting with accelerated and personalized learning.
 
-## Instructions for installing the project:
-Since the app includes Firebase, it cannot be posted on a public GitHub repository. For us to be able to post it on our public repository, we had to delete many key APIs. Therefore, the app will not run efficiently.
+## What It Does
+AccelAid uses AI to help teachers generate:
+- Personalized study plans
+- Practice materials
+- Assessments tailored to individual student needs
 
-## Instructions for running the project:
-Use VSCode and Flutter and Dart extensions to run the app, as well as Android Studio emulators.
+The goal is to reduce teacher workload while supporting students in catching up academically in a structured and manageable way.
 
-## Credits:
-Dr. Mona Yunis. (mona@beyondborders-edu.com)
+## Key Features
+- Student account creation for progress tracking
+- Automated homework and assessment generation
+- Personalized study plans and learning materials
+- Curriculum-aligned content (initially based on Syria’s Ministry of Education framework)
 
+## Tech Stack
+- **Flutter** - Cross-platform mobile development  
+- **Firebase** - Data management  
+- **OpenAI API** - AI-powered content generation  
+
+## Context
+This project was built as part of **CMUQ LifeLines Hackathon 2025**, under the theme of education. It represents a functional prototype developed within a limited timeframe and is intended to demonstrate the concept and technical approach rather than a production-ready system.
+
+## Credits
+**Dr. Mona Yunis**  
+mona@beyondborders-edu.com
